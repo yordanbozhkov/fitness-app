@@ -1,0 +1,31 @@
+User:
+
+- Add ability to amend user details
+
+
+Exercise:
+
+- Create different exercises
+- Save exercises
+- Add exercises to a specific workout
+
+
+Workout:
+
+- Choose workout from a list
+- Add exercises to this workout (incl. sets, reps, rest times)
+
+
+Progress Tracker:
+
+- Track completed workouts, including sets and reps
+- Include ability to generate reports with progress over time
+
+
+Menu System:
+
+- Interface which allows the user to navigate through the different options:
+    * View Profile - Displays user info
+    * Edit Profile - Updates user info
+    * View Exercises - Allows user to choose a workout and displays the exercises (including latest additions / removals)
+    * Track Progress - Log workouts and view progress reports

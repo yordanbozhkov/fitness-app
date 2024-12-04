@@ -30,7 +30,7 @@ user_weight = float(input())
 user_height = int(input())
 user_goal = input()
 
-user = User(self.name, self.age, self.weight, self.height, self.fitness_goal)
+user = User(user_name, user_age, user_weight, user_height, user_goal)
 
 print(user.display_info())
 
